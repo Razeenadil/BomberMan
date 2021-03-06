@@ -1,5 +1,4 @@
 By Muhammad Adil
-UCID: 30069315
 
 Project Part 2:
 
@@ -25,9 +24,6 @@ To run the program follow these steps:
 2. To start the game enter "./myGameP2 X M N". Where X is the player name(Ex."Larry"). And where M and N are rows and cols respectively 
 (note both M and N must be greater than or equal to 10. Also max value for N is 20)
 
-**Note I completed the project and added 2 extra power ups. & increments life by 1 if found. @ increments 
-score by 10 if found. The max M and N values are 20. I did everything up to the end of the game. My game runs
-prefectly fine and all values are displayed properly. The only things I did not do is ask user for topDoc. I did 
-not log scores to a file, and I also did not read the file and sort the score and display them to the user. 
+
 
 
