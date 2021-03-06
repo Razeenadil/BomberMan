@@ -1,0 +1,436 @@
+Script started on 2020-12-09 22:27:17-07:00
+No such schema “org.gnome.gedit.preferences.editor”
+]0;muhammad.adil@csa1:~/cpsc355/projmuhammad.adil@csa1:~/cpsc355/proj$ make
+make: 'myproj' is up to date.
+]0;muhammad.adil@csa1:~/cpsc355/projmuhammad.adil@csa1:~/cpsc355/proj$ ./myproj Razeen 10 1[K[K[K5 15
+-14.21    &      &      $      @    10.78    @      $   -10.75    @      @      $      &      *     3.20 
+ -2.57    $      &      &      @      &      @    -1.34    $      &      &      &    -5.35    &      @   
+   @    -6.86   0.77    &      $     4.28    $    -5.06    @      $      &      @   -14.28 -12.71    &   
+   @     5.94    $      $    11.18  13.09    &      $      $    13.07    &      $      $      @   -11.15 
+-14.03    $   -12.40   7.58    &     2.51    &     9.33  -6.74  14.65   5.96  13.31  10.86   3.08  11.05 
+  1.08  -8.09   2.35   1.14  13.36  12.17  14.32   5.81  14.28   5.39   0.05 -13.89  -1.34  -2.24  -0.07 
+  6.10   7.69  13.33   5.32   6.28   9.79  -8.52  14.98   3.25  11.81   4.91   4.98  -0.78  15.54   3.48 
+  1.43  11.55  15.15  13.01  10.03  12.71   0.62   4.81  10.69   9.75   0.69  11.47  11.37  12.67  -0.53 
+-13.80 -14.91  11.28   3.81   9.66  14.70   6.90   2.93 -14.29  14.98 -13.22  -6.34   9.66  11.86   3.61 
+  8.24   1.50   1.56 -13.24   6.11   6.79  -4.39  11.52  13.78   6.48  10.47   1.53  15.39  -9.91  -2.75 
+-15.50  13.83  -1.99  14.87   2.26  -5.95   5.98  14.64   6.40 -14.80   1.70  10.61   5.68   5.18   7.25 
+  8.24  12.13 -14.39  -5.38   6.73   9.10  10.91   0.10   5.76   0.37   1.45   4.98   2.69   9.47   9.90 
+  4.33  -2.96   1.19  11.10  15.49   9.05   8.07  13.05  12.52   6.95  11.28  10.81  10.70 -12.84   3.30 
+  4.78   3.30   2.41  11.77  10.17   2.45 -15.69  -2.82  13.55   7.21  -4.09   6.50   7.19   8.35 -13.37 
+ 14.29  -4.74   8.49   9.15   9.95  11.75   5.49   5.22  -2.70  15.34   2.46  12.85  -5.46   6.42  13.20 
+Total negatives number is 45/225 = 20.00% less than 40%
+Total power up number is 45/225 = 20.00% less than 20%
+===================================================Game Started====================================================
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+Lives: 3
+Score: 0
+Bombs: 22
+Enter x and y coorindates respectively x:0-14 and y:0-14.
+14
+14
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  +  -  
+X  X  X  X  X  X  X  X  X  X  X  X  X  +  +  
+Score: 14.60
+Bomb: 21
+Lives: 3
+Total score is: 14.60
+Enter 0 to exit or any other NUMBER to continue
+6
+Enter x and y coorindates respectively x:0-14 and y:0-14.
+4
+9
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  $  +  $  X  X  X  X  
+X  X  X  X  X  X  X  X  -  +  +  X  X  X  X  
+X  X  X  X  X  X  X  X  +  +  +  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  +  -  
+X  X  X  X  X  X  X  X  X  X  X  X  X  +  +  
+Score: 61.26
+Bomb: 20
+Lives: 4
+Total score is: 75.86
+Enter 0 to exit or any other NUMBER to continue
+6
+Enter x and y coorindates respectively x:0-14 and y:0-14.
+3
+8
+Extra 10 points.
+Extra 10 points.
+Bomb range doubled.
+Extra 10 points.
+Extra 10 points.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+X  X  X  X  @  +  @  $  -  @  @  $  $  X  X  
+X  X  X  X  @  $  @  -  $  $  $  $  -  X  X  
+X  X  X  X  $  +  $  -  @  $  $  @  -  X  X  
+X  X  X  X  +  +  $  $  $  +  $  $  $  X  X  
+X  X  X  X  $  +  $  +  -  +  +  +  +  X  X  
+X  X  X  X  +  +  +  +  +  +  +  -  -  X  X  
+X  X  X  X  +  +  -  +  +  +  +  +  -  X  X  
+X  X  X  X  +  +  +  +  +  +  +  +  +  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  +  -  
+X  X  X  X  X  X  X  X  X  X  X  X  X  +  +  
+Score: 329.10
+Bomb: 19
+Lives: 14
+Total score is: 404.96
+Enter 0 to exit or any other NUMBER to continue
+1
+Enter x and y coorindates respectively x:0-14 and y:0-14.
+1
+1
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Exit key found. You won.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Extra 10 points.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+-  $  $  $  @  +  @  $  -  @  @  $  $  *  +  
+-  $  $  $  @  $  @  -  $  $  $  $  -  $  @  
+@  -  +  $  $  +  $  -  @  $  $  @  -  -  $  
+@  +  $  $  +  +  $  $  $  +  $  $  $  @  -  
+-  $  -  +  $  +  $  +  -  +  +  +  +  +  +  
++  -  +  +  +  +  +  +  +  +  +  -  -  -  -  
++  +  +  +  +  +  -  +  +  +  +  +  -  +  +  
++  +  +  +  +  +  +  +  +  +  +  +  +  +  -  
+-  -  +  +  +  +  +  +  -  +  -  -  +  +  +  
++  +  +  -  +  +  -  +  +  +  +  +  +  -  -  
+-  +  -  +  +  -  +  +  +  -  +  +  +  +  +  
++  +  -  -  +  +  +  +  +  +  +  +  +  +  +  
++  -  +  +  +  +  +  +  +  +  +  +  +  -  +  
++  +  +  +  +  +  -  -  +  +  -  +  +  +  -  
++  -  +  +  +  +  +  +  -  +  +  +  -  +  +  
+Score: 848.68
+Bomb: 18
+Lives: 31
+Total score is: 1253.64
+]0;muhammad.adil@csa1:~/cpsc355/projmuhammad.adil@csa1:~/cpsc355/proj$ ./myproj 20 [K[K[KAdam 20 20
+   $     1.84    @      *      $      &      $      $      &      @    -9.03 -11.11    $      $      @      $      @    -9.51    &      @   
+  6.45   7.57    $      &     5.54    @    14.85    $     0.27  -0.01    &     6.82   7.01    $     8.33   0.16    $      $      &      @   
+   @      &    -3.04  10.86  -0.03    @     5.07  -9.61   4.66   6.14   5.51   5.26    &    10.79    &      @      $     6.58  -9.45    $   
+  9.41    &      $      @      &      $      $      &     0.20   6.15    $      @      @      @      $    12.65    @     0.57   5.21  -9.72 
+   @      $      &      @      @   -11.14    &      $     3.74    $     8.26    @    -5.54    &    15.81 -10.65    @   -10.90    @      $   
+   $   -13.74    &    -7.61   0.87    $   -15.89    &     4.25  -5.39   9.67 -15.29    &    14.23    &      $      $    11.93    $      $   
+   $      @   -13.79    $     0.50   2.01    $      &    -6.34  12.32   0.21    &    -4.09  -0.89    @      @      $     4.98   6.33    @   
+ 12.48   6.15  -4.71   2.16   7.59  15.79   3.11   7.08   5.63   2.27   9.24  15.40  -5.76   8.92   0.10   5.07  10.80   9.68  -5.55   6.83 
+ 11.77   2.94   1.46   3.56   2.96  -9.11   0.78   6.79  10.11   2.82  11.59  11.00  14.56  15.03  -7.25  -4.71  10.21   3.31  -3.91   0.45 
+  8.97   8.03  15.01   4.36  11.18  -0.74   2.52   4.42   4.92   9.62   6.00 -11.49  -0.46   0.91   3.47   4.36  12.12   1.60  12.80   1.96 
+ 11.64   5.09   6.52   1.46  -3.63   5.30  14.61   8.11   0.03   4.39 -14.51   9.40   2.52   2.49  13.92 -15.09   0.55  10.37   8.13  -7.66 
+ 15.77  11.34   8.82  12.55 -11.24   8.73  15.48  11.89  12.27   3.93   2.70  13.75   3.13   0.19   2.40   1.24 -10.81  -1.21  13.40   0.39 
+  4.27 -11.36   0.60  14.03   2.11  11.96   6.77  -6.79   0.73   4.00   7.81   2.28  11.17 -12.29   1.53  10.20  12.95  11.81   5.38   6.98 
+-13.57   1.71   8.68   8.38  10.26   6.43   2.30  -1.37  13.18  -6.76  11.54 -11.84  -2.75   1.73  10.12   7.30  -0.35 -14.55   2.06   8.22 
+ -7.64   6.34   2.77   9.54  13.73  15.95   4.38  10.36  -1.36   8.49   0.04   3.18   7.43  15.07  11.31 -15.92   2.06 -14.23   9.51  13.89 
+ -4.68   1.95   7.21  14.85  15.27  13.59  12.51  -0.26  14.50   7.01   3.75  14.96 -10.94  -2.99 -13.23   3.00   2.27  -2.79   5.19   5.45 
+ 11.61   3.32   7.07 -15.50   7.55   9.54   4.86   1.14   4.78  10.23  12.02  10.31 -15.84  11.61   8.52  12.19  15.51  -5.98  -2.23  14.44 
+ 10.13  13.02  12.58  12.86   9.63  -9.31 -13.60   6.99   2.18   6.92   2.27   4.51   0.20  11.24   8.47  12.72   9.32  14.11   4.18   6.34 
+ -7.33  14.90  14.59   0.46   7.10  15.04  -5.30   8.76   0.07  14.58   3.74   4.03  11.88 -15.89   6.05  14.36  11.48  10.92  15.12  10.52 
+ 15.44  15.50  10.91   0.30  -8.63   3.50   0.81  10.88  15.76   0.67  -7.67   7.73   4.83  11.99  10.43   0.49   7.93  14.53 -10.34   7.42 
+Total negatives number is 71/400 = 17.75% less than 40%
+Total power up number is 80/400 = 20.00% less than 20%
+===================================================Game Started====================================================
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+Lives: 3
+Score: 0
+Bombs: 40
+Enter x and y coorindates respectively x:0-19 and y:0-19.
+5
+43
+Enter x and y coorindates respectively x:0-19 and y:0-19.
+3
+7
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  +  -  +  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  $  $  +  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  $  $  +  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+Score: 4.08
+Bomb: 39
+Lives: 5
+Total score is: 4.08
+Enter 0 to exit or any other NUMBER to continue
+3
+Enter x and y coorindates respectively x:0-19 and y:0-19.
+1
+7
+Bomb range doubled.
+Extra 10 points.
+Exit key found. You won.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Extra 10 points.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Extra 10 points.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Extra 10 points.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Extra 10 points.
+Extra 10 points.
+Extra 10 points.
+Bomb range doubled.
+Extra 10 points.
+Extra 10 points.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Extra 10 points.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Extra 10 points.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Extra 10 points.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Bomb range doubled.
+Bomb range doubled.
+Bomb range doubled.
+Bomb range doubled.
+Bomb range doubled.
+Extra 10 points.
+Bomb range doubled.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra life found.
+Bomb range doubled.
+Extra 10 points.
+Extra 10 points.
+Bomb range doubled.
+Extra 10 points.
+$  +  @  *  $  $  $  $  $  @  -  -  $  $  @  $  @  -  $  @  
++  +  $  $  +  @  +  $  +  -  $  +  +  $  +  +  $  $  $  @  
+@  $  -  +  -  @  +  -  +  +  +  +  $  +  $  @  $  +  -  $  
++  $  $  @  $  $  $  $  +  +  $  @  @  @  $  +  @  +  +  -  
+@  $  $  @  @  -  $  $  +  $  +  @  -  $  +  -  @  -  @  $  
+$  -  $  -  +  $  -  $  +  -  +  -  $  +  $  $  $  +  $  $  
+$  @  -  $  +  +  $  $  -  +  +  $  -  -  @  @  $  +  +  @  
++  +  -  +  +  +  +  +  +  +  +  +  -  +  +  +  +  +  -  +  
++  +  +  +  +  -  +  +  +  +  +  +  +  +  -  -  +  +  -  +  
++  +  +  +  +  -  +  +  +  +  +  -  -  +  +  +  +  +  +  +  
++  +  +  +  -  +  +  +  +  +  -  +  +  +  +  -  +  +  +  -  
++  +  +  +  -  +  +  +  +  +  +  +  +  +  +  +  -  -  +  +  
++  -  +  +  +  +  +  -  +  +  +  +  +  -  +  +  +  +  +  +  
+-  +  +  +  +  +  +  -  +  -  +  -  -  +  +  +  -  -  +  +  
+-  +  +  +  +  +  +  +  -  +  +  +  +  +  +  -  +  -  +  +  
+-  +  +  +  +  +  +  -  +  +  +  +  -  -  -  +  +  -  +  +  
++  +  +  -  +  +  +  +  +  +  +  +  -  +  +  +  +  -  -  +  
++  +  +  +  +  -  -  +  +  +  +  +  +  +  +  +  +  +  +  +  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  
+Score: 1321.08
+Bomb: 38
+Lives: 26
+Total score is: 1325.16
+]0;muhammad.adil@csa1:~/cpsc355/projmuhammad.adil@csa1:~/cpsc355/proj$ 2[Kquit
+bash: quit: command not found
+]0;muhammad.adil@csa1:~/cpsc355/projmuhammad.adil@csa1:~/cpsc355/proj$ exit
+exit
+
+Script done on 2020-12-09 22:30:09-07:00

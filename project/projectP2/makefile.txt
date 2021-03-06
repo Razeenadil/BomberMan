@@ -1,0 +1,6 @@
+myproj:	myGameP2.asm randomNum.asm
+	m4 myGameP2.asm > myGameP2.s
+	m4 randomNum.asm > randomNum.s
+	as myGameP2.s -o myGameP2.o
+	as randomNum.s -o randomNum.o
+	gcc myGameP2.o randomNum.o -g -o myproj
