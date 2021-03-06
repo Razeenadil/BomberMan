@@ -1,6 +1,5 @@
 /*
 Muhammad Adil
-UCID: 30069315
 Project Part1 (bomberman)
 This is the bomberman game. User picks a gamed board size. They can choose where to drop the bomb. Score gets loged to a file.
 User can also view all top scores
